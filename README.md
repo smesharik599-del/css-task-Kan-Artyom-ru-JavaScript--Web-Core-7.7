@@ -1,1 +1,1 @@
-https://github.com/smesharik599-del/css-task-Kan-Artyom-ru-JavaScript--Web-Core-7.7.git
+https://smesharik599-del.github.io/css-task-Kan-Artyom-ru-JavaScript--Web-Core-7.7/
